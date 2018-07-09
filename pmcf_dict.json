@@ -972,6 +972,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98084,
+      "form" : "bepice"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "vefise" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
