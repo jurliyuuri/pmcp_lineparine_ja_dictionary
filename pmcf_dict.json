@@ -1031,10 +1031,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " fi " ]
+      "forms" : [ "fi " ]
     }, {
       "title" : "kante",
-      "forms" : [ " fi, mal, pa" ]
+      "forms" : [ "mal", "pa" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
