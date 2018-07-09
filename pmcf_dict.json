@@ -1040,6 +1040,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 86890,
+      "form" : "e ticot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " tisod" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
