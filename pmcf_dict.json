@@ -933,6 +933,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98081,
+      "form" : "kada"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "harda" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
