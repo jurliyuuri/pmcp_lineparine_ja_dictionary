@@ -946,6 +946,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98082,
+      "form" : "alepic"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "alefis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98083,
+      "form" : "e kije"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "klie" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
