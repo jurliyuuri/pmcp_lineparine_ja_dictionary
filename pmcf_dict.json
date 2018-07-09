@@ -907,6 +907,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98079,
+      "form" : "e kunlan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "knloan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
