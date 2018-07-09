@@ -1,0 +1,76 @@
+<head>
+<script>
+function foo(txt)
+{
+	var id = 1;
+
+	var words = txt.split(")").map(function(a){
+		var b = a.match(/[,\s]*([\s*a-z-]+)\(\s*<([^\/]*)/);
+		if(b == null) {
+			console.log("failed:", a);
+			return null;
+		}
+		// b[1]: word
+		// b[2]: etymology
+		var c = a.match(/[^\/]*\/(.*)/);
+		if(c == null) { // etymology == meaning
+			return {
+			    "entry" : {
+			      "id" : (Math.random()*100000)|0,
+			      "form" : b[1]
+			    },
+			    "translations" : [ {
+			      "title" : "farteven ad kante",
+			      "forms" : [ b[2] ]
+			    } ],
+			    "tags" : [ ],
+			    "contents" : [ ],
+			    "variations" : [ ],
+			    "relations" : [ ]
+			  };
+		} else {
+			return {
+			 "entry" : {
+			   "id" : (Math.random()*100000)|0,
+			   "form" : b[1]
+			 },
+			 "translations" : [ {
+			   "title" : "farteven",
+			   "forms" : [ b[2] ]
+			 }, {
+			   "title" : "kante",
+			   "forms" : [ c[1] ]
+			 } ],
+			 "tags" : [ ],
+			 "contents" : [ ],
+			 "variations" : [ ],
+			 "relations" : [ ]
+  			}
+		}
+
+	});
+
+	var res = {"words":words}
+	return JSON.stringify(res);
+}
+</script>
+</head>
+<body>
+<textarea name="" cols="30" rows="10" id="abc">mi (< mi), co (< co), ka (< fqa, ka.tk, ka.pk / ka1), ci (< ci, si / ci, si, fgir, zap2.pk), kame (< harmie), lukup (< lkurf / lkurftless), lata (< larta), nole (< snolej), poto (< polto), polto (< polto), nalu (< snalu), julo (< iulo), icic (< isis), likka (< likqa), papuc (< fafs), kantel (< kranteerl), kulante (< kranteerl), bal(< bal), ben(< vhens), zakan-zakan(< za’kkan), zaku(< chaku), cep(< seip), ep(< erb), lumap(< lumavh), askic(< askis), et(< et), mot(< moth), pek(< feg), bixe(< vixeh), bek(< blerkh), e(< eri), anpe(< anfi'e), kapa (< kafi'a), pon(< feun), ponto(< fonto), cila( < cirla)
+
+
+, *anxan(< andzan), e tata(< tatha), dapal-leti(< dhafarl), *kabe(< gable), jatpek-leti(< jatfekh), *adikti(< adirkhtir), *e ankalep(< ankalef), e pip(< pifh), pinic-leti(< pinix), *e nupuc(< nupudz), akxac-leti(< akxaz), lec(< lech), e pak(< fark),  lelec-it(< leles / lelessse), cunet-leti(< sneiet), 
+
+jo (< io, ie.pk / io, -'i, el),
+e tude (< tydiest / tydiest, is),
+e pen (< pen),  e(< es), e tuwaca(< tvarcar), e ice(< icve), e nip(< niv / tejiest), e bi(< birle), e panka (< panqa, fhanka / vynut), pan-leti(< panqa), cet-leti(< set), e(< ej) ,xizi(< xici)
+
+</textarea>
+<input onclick="document.getElementById('def').value = foo(document.getElementById('abc').value)" value="convert" type="button">
+<ul>
+<li>語 (< 由来の語)</li>
+<li>語 (< 由来の語 / 語義)</li>
+</ul>
+<p>をコンマ区切りで入力。語としてはa-zとスペースとアスタリスクを許容。</p>
+<textarea name="" cols="30" rows="10" id="def"></textarea>
+</body>

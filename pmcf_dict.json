@@ -1,0 +1,879 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 89914,
+      "form" : "mi "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " mi" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77682,
+      "form" : "co "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " co" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 41397,
+      "form" : "ka "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " fqa, ka.tk, ka.pk " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " ka1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30397,
+      "form" : "ci "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " ci, si " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " ci, si, fgir, zap2.pk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9852,
+      "form" : "kame "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " harmie" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14443,
+      "form" : "lukup "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " lkurf " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " lkurftless" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48270,
+      "form" : "lata "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " larta" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "nole "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " snolej" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 72837,
+      "form" : "poto "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " polto" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66770,
+      "form" : "polto "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " polto" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 84830,
+      "form" : "nalu "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " snalu" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2142,
+      "form" : "julo "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " iulo" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 82714,
+      "form" : "icic "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " isis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45042,
+      "form" : "likka "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " likqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16203,
+      "form" : "papuc "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " fafs" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67154,
+      "form" : "kantel "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " kranteerl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67177,
+      "form" : "kulante "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " kranteerl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12009,
+      "form" : "bal"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " bal" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 98074,
+      "form" : "ben"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " vhens" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 82721,
+      "form" : "zakan-zakan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " za’kkan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11985,
+      "form" : "zaku"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " chaku" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 96712,
+      "form" : "cep"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " seip" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 96114,
+      "form" : "ep"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " erb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 49529,
+      "form" : "lumap"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " lumavh" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 87460,
+      "form" : "askic"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " askis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9684,
+      "form" : "et"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " et" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22720,
+      "form" : "mot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " moth" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45820,
+      "form" : "pek"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " feg" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21988,
+      "form" : "bixe"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " vixeh" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 749,
+      "form" : "bek"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " blerkh" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61061,
+      "form" : "e"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " eri" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88859,
+      "form" : "anpe"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " anfi'e" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 66322,
+      "form" : "kapa "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " kafi'a" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 83773,
+      "form" : "pon"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " feun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 97051,
+      "form" : "ponto"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " fonto" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20153,
+      "form" : "cila"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " cirla" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92699,
+      "form" : "*anxan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " andzan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 94367,
+      "form" : "e tata"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " tatha" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 70103,
+      "form" : "dapal-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " dhafarl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6599,
+      "form" : "*kabe"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " gable" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30320,
+      "form" : "jatpek-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " jatfekh" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45694,
+      "form" : "*adikti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " adirkhtir" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 95571,
+      "form" : "*e ankalep"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " ankalef" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 64376,
+      "form" : "e pip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " pifh" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23116,
+      "form" : "pinic-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " pinix" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26531,
+      "form" : "*e nupuc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " nupudz" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60984,
+      "form" : "akxac-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " akxaz" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88931,
+      "form" : "lec"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " lech" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 67099,
+      "form" : "e pak"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " fark" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2916,
+      "form" : "lelec-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " leles " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " lelessse" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60026,
+      "form" : "cunet-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " sneiet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 65149,
+      "form" : "jo "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " io, ie.pk " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " io, -'i, el" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 77871,
+      "form" : "e tude "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " tydiest " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " tydiest, is" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29102,
+      "form" : "e pen "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " pen" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 80739,
+      "form" : "e"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " es" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88406,
+      "form" : "e tuwaca"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " tvarcar" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48179,
+      "form" : "e ice"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " icve" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 35347,
+      "form" : "e nip"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " niv " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " tejiest" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61764,
+      "form" : "e bi"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " birle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23677,
+      "form" : "e panka "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " panqa, fhanka " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " vynut" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17320,
+      "form" : "pan-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " panqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9090,
+      "form" : "cet-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " set" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 57651,
+      "form" : "e"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " ej" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92925,
+      "form" : "xizi"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " xici" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "alphabetOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
