@@ -1024,6 +1024,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 56258,
+      "form" : "pi "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " fi " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " fi, mal, pa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
