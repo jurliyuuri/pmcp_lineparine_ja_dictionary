@@ -1118,6 +1118,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99105,
+      "form" : "e liju"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "lyr" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "lersse", "kanti" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
