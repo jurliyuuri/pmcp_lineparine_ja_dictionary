@@ -1134,6 +1134,64 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63196,
+      "form" : "lucu"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " lusus, lusut " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " liaxa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 45087,
+      "form" : "nat "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " nat" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 42196,
+      "form" : "cila "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " cirla " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " da" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 43419,
+      "form" : "a "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " a.pk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
