@@ -2,11 +2,11 @@
   "words" : [ {
     "entry" : {
       "id" : 89914,
-      "form" : "mi "
+      "form" : "mi"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " mi" ]
+      "forms" : [ "mi" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -15,11 +15,11 @@
   }, {
     "entry" : {
       "id" : 77682,
-      "form" : "co "
+      "form" : "co"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " co" ]
+      "forms" : [ "co" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -28,14 +28,14 @@
   }, {
     "entry" : {
       "id" : 41397,
-      "form" : "ka "
+      "form" : "ka"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " fqa, ka.tk, ka.pk " ]
+      "forms" : [ "fqa, ka.tk, ka.pk" ]
     }, {
       "title" : "kante",
-      "forms" : [ " ka1" ]
+      "forms" : [ "ka1" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -44,14 +44,14 @@
   }, {
     "entry" : {
       "id" : 30397,
-      "form" : "ci "
+      "form" : "ci"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " ci, si " ]
+      "forms" : [ "ci, si" ]
     }, {
       "title" : "kante",
-      "forms" : [ " ci, si, fgir, zap2.pk" ]
+      "forms" : [ "ci, si, fgir, zap2.pk" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -60,11 +60,11 @@
   }, {
     "entry" : {
       "id" : 9852,
-      "form" : "kame "
+      "form" : "kame"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " harmie" ]
+      "forms" : [ "harmie" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -73,14 +73,14 @@
   }, {
     "entry" : {
       "id" : 14443,
-      "form" : "lukup "
+      "form" : "lukup"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " lkurf " ]
+      "forms" : [ "lkurf" ]
     }, {
       "title" : "kante",
-      "forms" : [ " lkurftless" ]
+      "forms" : [ "lkurftless" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -89,11 +89,11 @@
   }, {
     "entry" : {
       "id" : 48270,
-      "form" : "lata "
+      "form" : "lata"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " larta" ]
+      "forms" : [ "larta" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -102,11 +102,11 @@
   }, {
     "entry" : {
       "id" : 79,
-      "form" : "nole "
+      "form" : "nole"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " snolej" ]
+      "forms" : [ "snolej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -115,11 +115,11 @@
   }, {
     "entry" : {
       "id" : 72837,
-      "form" : "poto "
+      "form" : "poto"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " polto" ]
+      "forms" : [ "polto" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -128,11 +128,11 @@
   }, {
     "entry" : {
       "id" : 66770,
-      "form" : "polto "
+      "form" : "polto"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " polto" ]
+      "forms" : [ "polto" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -141,11 +141,11 @@
   }, {
     "entry" : {
       "id" : 84830,
-      "form" : "nalu "
+      "form" : "nalu"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " snalu" ]
+      "forms" : [ "snalu" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -154,11 +154,11 @@
   }, {
     "entry" : {
       "id" : 2142,
-      "form" : "julo "
+      "form" : "julo"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " iulo" ]
+      "forms" : [ "iulo" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -167,11 +167,11 @@
   }, {
     "entry" : {
       "id" : 82714,
-      "form" : "icic "
+      "form" : "icic"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " isis" ]
+      "forms" : [ "isis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -180,11 +180,11 @@
   }, {
     "entry" : {
       "id" : 45042,
-      "form" : "likka "
+      "form" : "likka"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " likqa" ]
+      "forms" : [ "likqa" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -193,11 +193,11 @@
   }, {
     "entry" : {
       "id" : 16203,
-      "form" : "papuc "
+      "form" : "papuc"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " fafs" ]
+      "forms" : [ "fafs" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -206,11 +206,11 @@
   }, {
     "entry" : {
       "id" : 67154,
-      "form" : "kantel "
+      "form" : "kantel"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " kranteerl" ]
+      "forms" : [ "kranteerl" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -219,11 +219,11 @@
   }, {
     "entry" : {
       "id" : 67177,
-      "form" : "kulante "
+      "form" : "kulante"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " kranteerl" ]
+      "forms" : [ "kranteerl" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -236,7 +236,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " bal" ]
+      "forms" : [ "bal" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -249,7 +249,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " vhens" ]
+      "forms" : [ "vhens" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -262,7 +262,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " za’kkan" ]
+      "forms" : [ "za’kkan" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -275,7 +275,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " chaku" ]
+      "forms" : [ "chaku" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -288,7 +288,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " seip" ]
+      "forms" : [ "seip" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -301,7 +301,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " erb" ]
+      "forms" : [ "erb" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -314,7 +314,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " lumavh" ]
+      "forms" : [ "lumavh" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -327,7 +327,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " askis" ]
+      "forms" : [ "askis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -340,7 +340,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " et" ]
+      "forms" : [ "et" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -353,7 +353,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " moth" ]
+      "forms" : [ "moth" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -366,7 +366,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " feg" ]
+      "forms" : [ "feg" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -379,7 +379,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " vixeh" ]
+      "forms" : [ "vixeh" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -392,7 +392,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " blerkh" ]
+      "forms" : [ "blerkh" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -405,7 +405,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " eri" ]
+      "forms" : [ "eri" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -418,7 +418,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " anfi'e" ]
+      "forms" : [ "anfi'e" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -427,11 +427,11 @@
   }, {
     "entry" : {
       "id" : 66322,
-      "form" : "kapa "
+      "form" : "kapa"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " kafi'a" ]
+      "forms" : [ "kafi'a" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -444,7 +444,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " feun" ]
+      "forms" : [ "feun" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -457,7 +457,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " fonto" ]
+      "forms" : [ "fonto" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -470,7 +470,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " cirla" ]
+      "forms" : [ "cirla" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -483,7 +483,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " andzan" ]
+      "forms" : [ "andzan" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -496,7 +496,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " tatha" ]
+      "forms" : [ "tatha" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -509,7 +509,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " dhafarl" ]
+      "forms" : [ "dhafarl" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -522,7 +522,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " gable" ]
+      "forms" : [ "gable" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -535,7 +535,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " jatfekh" ]
+      "forms" : [ "jatfekh" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -548,7 +548,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " adirkhtir" ]
+      "forms" : [ "adirkhtir" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -561,7 +561,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " ankalef" ]
+      "forms" : [ "ankalef" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -574,7 +574,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " pifh" ]
+      "forms" : [ "pifh" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -587,7 +587,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " pinix" ]
+      "forms" : [ "pinix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -600,7 +600,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " nupudz" ]
+      "forms" : [ "nupudz" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -613,7 +613,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " akxaz" ]
+      "forms" : [ "akxaz" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -626,7 +626,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " lech" ]
+      "forms" : [ "lech" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -639,7 +639,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " fark" ]
+      "forms" : [ "fark" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -652,10 +652,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " leles " ]
+      "forms" : [ "leles" ]
     }, {
       "title" : "kante",
-      "forms" : [ " lelessse" ]
+      "forms" : [ "lelessse" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -668,7 +668,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " sneiet" ]
+      "forms" : [ "sneiet" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -677,14 +677,14 @@
   }, {
     "entry" : {
       "id" : 65149,
-      "form" : "jo "
+      "form" : "jo"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " io, ie.pk " ]
+      "forms" : [ "io, ie.pk" ]
     }, {
       "title" : "kante",
-      "forms" : [ " io, -'i, el" ]
+      "forms" : [ "io, -'i, el" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -693,14 +693,14 @@
   }, {
     "entry" : {
       "id" : 77871,
-      "form" : "e tude "
+      "form" : "e tude"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " tydiest " ]
+      "forms" : [ "tydiest" ]
     }, {
       "title" : "kante",
-      "forms" : [ " tydiest, is" ]
+      "forms" : [ "tydiest, is" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -709,11 +709,11 @@
   }, {
     "entry" : {
       "id" : 29102,
-      "form" : "e pen "
+      "form" : "e pen"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " pen" ]
+      "forms" : [ "pen" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -726,7 +726,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " es" ]
+      "forms" : [ "es" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -739,7 +739,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " tvarcar" ]
+      "forms" : [ "tvarcar" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -752,7 +752,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " icve" ]
+      "forms" : [ "icve" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -765,10 +765,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " niv " ]
+      "forms" : [ "niv" ]
     }, {
       "title" : "kante",
-      "forms" : [ " tejiest" ]
+      "forms" : [ "tejiest" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -790,14 +790,14 @@
   }, {
     "entry" : {
       "id" : 23677,
-      "form" : "e panka "
+      "form" : "e panka"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " panqa, fhanka " ]
+      "forms" : [ "panqa, fhanka" ]
     }, {
       "title" : "kante",
-      "forms" : [ " vynut" ]
+      "forms" : [ "vynut" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -810,7 +810,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " panqa" ]
+      "forms" : [ "panqa" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -823,7 +823,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " set" ]
+      "forms" : [ "set" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -836,7 +836,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " ej" ]
+      "forms" : [ "ej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -849,7 +849,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " xici" ]
+      "forms" : [ "xici" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -992,7 +992,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " ai’r" ]
+      "forms" : [ "ai’r" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1005,7 +1005,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " ai’r" ]
+      "forms" : [ "ai’r" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1018,7 +1018,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " takang" ]
+      "forms" : [ "takang" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1027,11 +1027,11 @@
   }, {
     "entry" : {
       "id" : 56258,
-      "form" : "pi "
+      "form" : "pi"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ "fi " ]
+      "forms" : [ "fi" ]
     }, {
       "title" : "kante",
       "forms" : [ "mal", "pa" ]
@@ -1047,7 +1047,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " tisod" ]
+      "forms" : [ "tisod" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1060,7 +1060,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " niv" ]
+      "forms" : [ "niv" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1073,7 +1073,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " cene" ]
+      "forms" : [ "cene" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1086,7 +1086,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " selene" ]
+      "forms" : [ "selene" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1099,7 +1099,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " deliu" ]
+      "forms" : [ "deliu" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1112,7 +1112,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " deliu" ]
+      "forms" : [ "deliu" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1141,10 +1141,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " lusus, lusut " ]
+      "forms" : [ "lusus, lusut" ]
     }, {
       "title" : "kante",
-      "forms" : [ " liaxa" ]
+      "forms" : [ "liaxa" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1153,11 +1153,11 @@
   }, {
     "entry" : {
       "id" : 45087,
-      "form" : "nat "
+      "form" : "nat"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " nat" ]
+      "forms" : [ "nat" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1166,14 +1166,14 @@
   }, {
     "entry" : {
       "id" : 42196,
-      "form" : "cila "
+      "form" : "cila"
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " cirla " ]
+      "forms" : [ "cirla" ]
     }, {
       "title" : "kante",
-      "forms" : [ " da" ]
+      "forms" : [ "da" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1182,11 +1182,11 @@
   }, {
     "entry" : {
       "id" : 43419,
-      "form" : "a "
+      "form" : "a"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " a.pk" ]
+      "forms" : [ "a.pk" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
