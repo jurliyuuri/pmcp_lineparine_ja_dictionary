@@ -1211,6 +1211,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99107,
+      "form" : "pemecepe"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "PMCF" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
