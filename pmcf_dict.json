@@ -32,7 +32,7 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ "fqa, ka.tk, ka.pk" ]
+      "forms" : [ "fqa", "ka.tk", "ka.pk" ]
     }, {
       "title" : "kante",
       "forms" : [ "ka1" ]
@@ -48,10 +48,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ "ci, si" ]
+      "forms" : [ "ci", "si" ]
     }, {
       "title" : "kante",
-      "forms" : [ "ci, si, fgir, zap2.pk" ]
+      "forms" : [ "ci", "si", "fgir", "zap2.pk" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -157,8 +157,11 @@
       "form" : "julo"
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
+      "title" : "farteven",
       "forms" : [ "iulo" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "iulo", "-o" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -184,7 +187,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ "likqa" ]
+      "forms" : [ "likqa", "liqka" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
