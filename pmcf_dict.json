@@ -1192,6 +1192,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99106,
+      "form" : "lujot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lyjot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
