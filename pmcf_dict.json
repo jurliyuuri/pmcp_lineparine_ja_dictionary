@@ -851,7 +851,10 @@
       "form" : "xizi"
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
+      "title" : "farteven",
+      "forms" : [ "xi zi.pk" ]
+    }, {
+      "title" : "kante",
       "forms" : [ "xici" ]
     } ],
     "tags" : [ ],
