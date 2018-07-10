@@ -1240,6 +1240,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99109,
+      "form" : "e cu"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "sur" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stejies", "dosyt" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
