@@ -1256,6 +1256,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99110,
+      "form" : "e cun"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ecurun" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "mol fal ecurun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
