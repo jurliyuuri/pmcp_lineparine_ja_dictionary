@@ -1272,6 +1272,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99111,
+      "form" : "at"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ad", "at.pk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99112,
+      "form" : "o"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "o" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
