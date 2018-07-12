@@ -841,7 +841,7 @@
       "title" : "farteven ad kante",
       "forms" : [ "ej" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1147,12 +1147,12 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ "lusus, lusut" ]
+      "forms" : [ "lusus", "lusut" ]
     }, {
       "title" : "kante",
       "forms" : [ "liaxa" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1165,7 +1165,7 @@
       "title" : "farteven ad kante",
       "forms" : [ "nat" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1181,7 +1181,7 @@
       "title" : "kante",
       "forms" : [ "da" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1194,7 +1194,7 @@
       "title" : "farteven ad kante",
       "forms" : [ "a.pk" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
