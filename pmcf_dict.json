@@ -839,7 +839,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ "ej" ]
+      "forms" : [ "ej", "aj" ]
     } ],
     "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
@@ -1334,6 +1334,19 @@
       "forms" : [ "mak" ]
     } ],
     "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99116,
+      "form" : "ai"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "aj" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
