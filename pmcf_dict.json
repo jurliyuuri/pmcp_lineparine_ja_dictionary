@@ -1324,6 +1324,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99115,
+      "form" : "mak"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "mak" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
