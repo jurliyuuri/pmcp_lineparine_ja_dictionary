@@ -1298,6 +1298,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99113,
+      "form" : "e nin"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "niurn" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99114,
+      "form" : "metica"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "metista" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
