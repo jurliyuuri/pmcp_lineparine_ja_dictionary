@@ -1383,7 +1383,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ "cen-a-" ]
+      "forms" : [ "can-a-" ]
     } ],
     "tags" : [ "kraftan" ],
     "contents" : [ ],
@@ -1402,6 +1402,177 @@
       "forms" : [ "qa" ]
     } ],
     "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99121,
+      "form" : "nip-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "niv" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "iu" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99122,
+      "form" : "duka-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99123,
+      "form" : "jup-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "iupqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99124,
+      "form" : "noka-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "neoqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99125,
+      "form" : "xanta-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xantaqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99126,
+      "form" : "xen-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xenqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99127,
+      "form" : "lekka-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lekqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99128,
+      "form" : "penti-leti"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "fentiqa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99129,
+      "form" : "ana"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "an-a-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "anpanqa" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99130,
+      "form" : "xana"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xan-a-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "xanpanqa" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99131,
+      "form" : "anxan"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "an- xan-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "sanpanqa" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99132,
+      "form" : "cana"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "san-a-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "sanpanqa" ]
+    } ],
+    "tags" : [ "kraftan" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
