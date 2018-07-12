@@ -1134,7 +1134,7 @@
       "forms" : [ "lyr" ]
     }, {
       "title" : "kante",
-      "forms" : [ "lersse", "kanti" ]
+      "forms" : [ "lersse [kije]", "kanti [tude]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1250,7 +1250,7 @@
       "forms" : [ "sur" ]
     }, {
       "title" : "kante",
-      "forms" : [ "stejies", "dosyt" ]
+      "forms" : [ "stejies [kije]", "dosyt [tude]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1587,6 +1587,19 @@
     }, {
       "title" : "kante",
       "forms" : [ "nives", "xelnkan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99134,
+      "form" : "e kante"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "akranti [kije]", "krante [tude]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
