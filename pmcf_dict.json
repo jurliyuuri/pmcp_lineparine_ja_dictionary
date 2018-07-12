@@ -1634,6 +1634,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99137,
+      "form" : "ja"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ja" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99138,
+      "form" : "molip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "mol niv" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
