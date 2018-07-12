@@ -1660,6 +1660,145 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 73106,
+      "form" : "cukulal "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " skurla " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " aklurpti'a" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16544,
+      "form" : "lukup-lukup "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ " lkurf, zep1 zep1.pk " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " lkurfon" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46228,
+      "form" : "cacija "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " carxa, sasia.ar" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92824,
+      "form" : "mele "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " mele" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18098,
+      "form" : "tulijo "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " tuli'o, tulijo.tk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 96421,
+      "form" : "e xel "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " xel" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 48916,
+      "form" : "pecta "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " pesta " ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63895,
+      "form" : "pac "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " fas" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39027,
+      "form" : "e kojowi "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " kojoi" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33280,
+      "form" : "it "
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "-it.pmcp " ]
+    }, {
+      "title" : "kante",
+      "forms" : [ " teles" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
