@@ -1605,6 +1605,35 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99135,
+      "form" : "e kile"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "klie" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99136,
+      "form" : "tanna"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "tanna.tk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "tammua" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
