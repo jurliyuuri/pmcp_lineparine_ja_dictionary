@@ -1576,6 +1576,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99133,
+      "form" : "nip-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "niv" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "nives", "xelnkan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
