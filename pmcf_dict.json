@@ -1883,6 +1883,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99144,
+      "form" : "e pijen"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "pi'en" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "pi'ene'd" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
