@@ -1844,6 +1844,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99141,
+      "form" : "menic"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "menis" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99142,
+      "form" : "paccamel"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "paccamerl" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
