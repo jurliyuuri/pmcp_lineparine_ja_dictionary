@@ -1675,7 +1675,7 @@
       "title" : "kante",
       "forms" : [ " aklurpti'a" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1686,12 +1686,12 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " lkurf, zep1 zep1.pk " ]
+      "forms" : [ " lkurf", "zep1 zep1.pk " ]
     }, {
       "title" : "kante",
       "forms" : [ " lkurfon" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1702,9 +1702,9 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " carxa, sasia.ar" ]
+      "forms" : [ " carxa", "sasia.ar" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1717,7 +1717,7 @@
       "title" : "farteven ad kante",
       "forms" : [ " mele" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1728,9 +1728,9 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " tuli'o, tulijo.tk" ]
+      "forms" : [ " tuli'o", "tulijo.tk" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
