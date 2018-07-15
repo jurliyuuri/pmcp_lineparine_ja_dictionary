@@ -1902,6 +1902,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99145,
+      "form" : "kame"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "harmie" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "harmie'd" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
