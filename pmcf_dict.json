@@ -1870,6 +1870,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99143,
+      "form" : "pulenza"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "flentia" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
