@@ -1799,6 +1799,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99139,
+      "form" : "xale"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xale" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
