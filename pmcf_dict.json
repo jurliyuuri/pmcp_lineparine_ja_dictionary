@@ -1054,6 +1054,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "tisod" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "jusci [kije]", "firlex e'c [kije]" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1809,6 +1812,35 @@
       "forms" : [ "xale" ]
     } ],
     "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 133,
+      "form" : "xale"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xale" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  },  {
+    "entry" : {
+      "id" : 135,
+      "form" : "cet-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "set" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stodup" ]
+    } ],
+    "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
