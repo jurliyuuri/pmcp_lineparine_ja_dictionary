@@ -1766,8 +1766,11 @@
       "form" : "pac "
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
-      "forms" : [ " fas" ]
+      "title" : "farteven",
+      "forms" : [ "fas" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fas", "liaxi" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
