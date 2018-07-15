@@ -1918,6 +1918,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99146,
+      "form" : "e lot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ny snylod" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99147,
+      "form" : "e nulot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "snylod" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
