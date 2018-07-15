@@ -1831,6 +1831,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99140,
+      "form" : "acil"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "acirl" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
