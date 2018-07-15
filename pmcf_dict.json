@@ -1817,19 +1817,6 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 133,
-      "form" : "xale"
-    },
-    "translations" : [ {
-      "title" : "farteven ad kante",
-      "forms" : [ "xale" ]
-    } ],
-    "tags" : [ "krackrafi'a" ],
-    "contents" : [ ],
-    "variations" : [ ],
-    "relations" : [ ]
-  },  {
-    "entry" : {
       "id" : 135,
       "form" : "cet-it"
     },
