@@ -1686,10 +1686,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ " lkurf", "zep1 zep1.pk " ]
+      "forms" : [ "lkurf", "zep1 zep1.pk " ]
     }, {
       "title" : "kante",
-      "forms" : [ " lkurfon" ]
+      "forms" : [ "lkurfon", "krandiurg" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
