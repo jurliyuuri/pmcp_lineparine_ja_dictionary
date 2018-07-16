@@ -1986,6 +1986,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99151,
+      "form" : "kin"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "kinfit" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "dieniep" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
