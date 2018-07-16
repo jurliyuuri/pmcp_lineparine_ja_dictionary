@@ -1970,6 +1970,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99150,
+      "form" : "kie"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ki'e" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ki'ergen" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
