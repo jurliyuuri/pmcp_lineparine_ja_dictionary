@@ -1944,6 +1944,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99148,
+      "form" : "helza"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "helzar" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
