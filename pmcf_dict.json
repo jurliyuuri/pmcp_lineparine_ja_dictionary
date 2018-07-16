@@ -2002,6 +2002,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99152,
+      "form" : "lewip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "levip" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
