@@ -2015,6 +2015,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99153,
+      "form" : "e kin"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "kinfit" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
