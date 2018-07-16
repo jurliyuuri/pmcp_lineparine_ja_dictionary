@@ -2028,6 +2028,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99154,
+      "form" : "nip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "niv" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
