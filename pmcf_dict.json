@@ -2067,6 +2067,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99157,
+      "form" : "cucen"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "stysien" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
