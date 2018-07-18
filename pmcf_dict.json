@@ -2080,6 +2080,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99158,
+      "form" : "lanca"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "la unsar" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99159,
+      "form" : "launca"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "la unsar" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
