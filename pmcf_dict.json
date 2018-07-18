@@ -2106,6 +2106,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99160,
+      "form" : "laip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "la jip" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
