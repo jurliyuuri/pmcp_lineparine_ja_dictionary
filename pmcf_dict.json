@@ -2145,6 +2145,35 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99163,
+      "form" : "dexape"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dexafel" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99164,
+      "form" : "e dexape"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "dexafel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "chypo" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
