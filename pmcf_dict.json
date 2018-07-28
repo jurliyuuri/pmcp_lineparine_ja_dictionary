@@ -2174,6 +2174,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99165,
+      "form" : "e liowel"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "liorwel" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
