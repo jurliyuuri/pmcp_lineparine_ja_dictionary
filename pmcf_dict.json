@@ -2187,6 +2187,158 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99166,
+      "form" : "e let"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "letix" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99167,
+      "form" : "zanta"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "zant-a-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "zant" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99168,
+      "form" : "joja"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "vioj-a-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "vioj" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99169,
+      "form" : "pawil"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "farvil" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99170,
+      "form" : "e coxet"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "stoxiet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99171,
+      "form" : "e pawilec"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "farviles" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99172,
+      "form" : "e udicel"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ydicel" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99173,
+      "form" : "e cunen"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "snerien" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99174,
+      "form" : "e nupak"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ny fark" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "axelixfant" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99175,
+      "form" : "lecu"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lecu" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99176,
+      "form" : "icpenemedanot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ispienermedarneust" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
