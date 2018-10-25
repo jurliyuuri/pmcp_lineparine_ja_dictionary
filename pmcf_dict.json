@@ -214,6 +214,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "kranteerl" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "qanteo" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -1056,7 +1059,7 @@
       "forms" : [ "tisod" ]
     }, {
       "title" : "kante",
-      "forms" : [ "jusci [kije]", "firlex e'c [kije]" ]
+      "forms" : [ "jusci [kije]", "firlex e'c [kije]", "jel e'c" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
