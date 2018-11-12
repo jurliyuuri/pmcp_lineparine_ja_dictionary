@@ -2342,10 +2342,23 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99177,
+      "form" : "auc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "als" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
-    "alphabetOrderType" : "UNICODE",
+    "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
