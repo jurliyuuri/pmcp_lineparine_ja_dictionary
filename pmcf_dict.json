@@ -2355,6 +2355,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99178,
+      "form" : "e kantel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "kranteerl" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "krante kranteerl'i" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
