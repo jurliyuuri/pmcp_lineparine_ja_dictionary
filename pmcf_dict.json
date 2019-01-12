@@ -2371,6 +2371,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99179,
+      "form" : "cunenek"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "snenik" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
