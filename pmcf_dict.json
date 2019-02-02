@@ -2700,6 +2700,80 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99202,
+      "form" : "e papel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "farfel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es farfelen" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99203,
+      "form" : "e pulon"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "flonn" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99204,
+      "form" : "e pulan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "flan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99205,
+      "form" : "e ludec"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ludiex" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es ludiex" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99206,
+      "form" : "e dok"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dokt" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "nefisna",
+      "text" : "e dok, doktit, dokleti"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
