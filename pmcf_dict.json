@@ -735,7 +735,10 @@
       "forms" : [ "es" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "nefisna",
+      "text" : "e, e, e"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -900,7 +903,10 @@
       "forms" : [ "mol" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "nefisna",
+      "text" : "mol, mol, mol"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1663,7 +1669,10 @@
       "forms" : [ "mol niv" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "nefisna",
+      "text" : "molip, molip, molipleti"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2028,7 +2037,10 @@
       "forms" : [ "kinfit" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "nefisna",
+      "text" : "e kin, kinpit, kinleti"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
