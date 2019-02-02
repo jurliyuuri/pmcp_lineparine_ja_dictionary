@@ -2384,6 +2384,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99180,
+      "form" : "latacet"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "larta set" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "cierjustel fhasfa" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
