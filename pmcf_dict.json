@@ -2774,6 +2774,196 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99207,
+      "form" : "tanke"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "tam2 hue.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "tarfe" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99208,
+      "form" : "xiju"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xy1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ciurl" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99209,
+      "form" : "xepudoc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ciepudrost" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99210,
+      "form" : "mele "
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ " mele" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99211,
+      "form" : "nutok"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "snutok" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99212,
+      "form" : "e nectun"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "snestun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99213,
+      "form" : "e textel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "textel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "text" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99214,
+      "form" : "e lucuc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lusus" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99215,
+      "form" : "xot"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xot1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "paltauil" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99216,
+      "form" : "e del"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "deln" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99217,
+      "form" : "keco"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "keicwou.ar" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fion" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 如 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99218,
+      "form" : "cul"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "surul" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "-el" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99219,
+      "form" : "xedixel"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xedirxel" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
