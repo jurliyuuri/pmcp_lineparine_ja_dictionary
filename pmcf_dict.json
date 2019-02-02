@@ -294,7 +294,7 @@
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ "seip" ]
+      "forms" : [ "seip", "karmacist" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -2396,7 +2396,295 @@
       "title" : "kante",
       "forms" : [ "cierjustel fhasfa" ]
     } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99181,
+      "form" : "joup"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jorup" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99182,
+      "form" : "cetkaik"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "cet2 kaik.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "cerke" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99183,
+      "form" : "mo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "meu" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99184,
+      "form" : "paike"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "pai2 ge.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "perger" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99185,
+      "form" : "belpic"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "velfez" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99186,
+      "form" : "e penul"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "penul" ]
+    } ],
     "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99187,
+      "form" : "e dutucun"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dytysn" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99188,
+      "form" : "e lauza"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "laozia" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99189,
+      "form" : "e molka"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "laozia" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "harda kraxaiun",
+      "text" : "mol kait, mol kaikit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99190,
+      "form" : "cepkulante"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "seip-kranteerl [y1 ak1.pk]" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "sopit" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99191,
+      "form" : "pijume"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "fiurme" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99192,
+      "form" : "kuctu"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "gustu" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99193,
+      "form" : "xije"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xi'e" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99194,
+      "form" : "dodo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dodor" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99195,
+      "form" : "cucit"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "stystist" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99196,
+      "form" : "xan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xan" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99197,
+      "form" : "caupla"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "salfli'ar" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99198,
+      "form" : "e cemoko"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "semorko" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "teles semorko" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99199,
+      "form" : "mena"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "mena" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99200,
+      "form" : "dec"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "dejix" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99201,
+      "form" : "cepat"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "stefart" ]
+    } ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
