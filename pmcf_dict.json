@@ -2964,6 +2964,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99220,
+      "form" : "koclija"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "korxli'a", "kauchlia.ve" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99221,
+      "form" : "aiau"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "aiaro" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
