@@ -2996,6 +2996,41 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99222,
+      "form" : "jun"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "yn2.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "(= o nip)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99223,
+      "form" : "cet"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "set" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "-ss" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 等 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
