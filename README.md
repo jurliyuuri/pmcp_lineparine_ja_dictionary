@@ -1,5 +1,4 @@
 # pmcp_dictionary
-====
 
 Fqa es Pemecepelukuppen levip fal lineparine.
 
