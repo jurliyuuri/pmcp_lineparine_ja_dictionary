@@ -3031,14 +3031,119 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99224,
+      "form" : "zo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "zuo1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "laver" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99225,
+      "form" : "late"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "late" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "-te" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99226,
+      "form" : "e waxec"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "waxes" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99227,
+      "form" : "waxec-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "waxes" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "furnkie" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99228,
+      "form" : "e cece"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "siesej" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99229,
+      "form" : "pijuc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "fiurs" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99230,
+      "form" : "pijuc leti kapa"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "fyrstla + [kád.bt]" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fyrstla", "lal" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
+    "formFontFamily" : null,
     "defaultWord" : {
       "entry" : {
         "id" : -1,
