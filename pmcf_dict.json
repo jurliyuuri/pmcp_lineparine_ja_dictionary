@@ -690,10 +690,10 @@
     },
     "translations" : [ {
       "title" : "farteven",
-      "forms" : [ "io, ie.pk" ]
+      "forms" : [ "io", "ie.pk" ]
     }, {
       "title" : "kante",
-      "forms" : [ "io, -'i, el" ]
+      "forms" : [ "io", "-'i", "el" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
