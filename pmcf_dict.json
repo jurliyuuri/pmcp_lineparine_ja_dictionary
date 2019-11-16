@@ -1868,8 +1868,11 @@
       "form" : "menic"
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
+      "title" : "farteven",
       "forms" : [ "menis" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "menis", "hartlirfa'd fonticco" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -3131,6 +3134,84 @@
       "forms" : [ "fyrstla", "lal" ]
     } ],
     "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99231,
+      "form" : "atalan"
+    },
+    "translations" : [ {
+      "title" : "kante",
+      "forms" : [ "alefise'd menis", "皇 hartlirfa'd fonticco" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99232,
+      "form" : "nul"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "nult" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99233,
+      "form" : "benal"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "venal" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99234,
+      "form" : "manmana"
+    },
+    "translations" : [ {
+      "title" : "kante",
+      "forms" : [ "manarna", "manarnaven hartlirfa'd fonticco" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99235,
+      "form" : "pede"
+    },
+    "translations" : [ {
+      "title" : "kante",
+      "forms" : [ "liardien menis", "phertarsa'd hartlirfa'd fonticco" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99236,
+      "form" : "aikit"
+    },
+    "translations" : [ {
+      "title" : "kante",
+      "forms" : [ "光 menis", "光 hartlirfa'd fonticco" ]
+    } ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
