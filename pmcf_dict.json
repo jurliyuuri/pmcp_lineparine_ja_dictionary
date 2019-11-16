@@ -1726,11 +1726,11 @@
   }, {
     "entry" : {
       "id" : 92824,
-      "form" : "mele "
+      "form" : "mele"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " mele" ]
+      "forms" : [ "mele" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -2831,11 +2831,11 @@
   }, {
     "entry" : {
       "id" : 99210,
-      "form" : "mele "
+      "form" : "mele"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " mele" ]
+      "forms" : [ "mele" ]
     } ],
     "tags" : [ "kraftan" ],
     "contents" : [ ],
