@@ -3288,6 +3288,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99239,
+      "form" : "pan-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "panqa" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ixfant" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
