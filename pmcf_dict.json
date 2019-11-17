@@ -22,7 +22,10 @@
       "forms" : [ "co" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 汝 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -379,7 +382,10 @@
       "forms" : [ "et" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 別 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -470,7 +476,10 @@
       "forms" : [ "kafi'a" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 光 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -851,7 +860,10 @@
       "forms" : [ "vynut" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 善 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1035,7 +1047,10 @@
       "forms" : [ "klie" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 耒 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1128,7 +1143,10 @@
       "forms" : [ "jusci [kije]", "firlex e'c [kije]", "jel e'c" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 心 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1173,7 +1191,10 @@
       "forms" : [ "selene" ]
     } ],
     "tags" : [ "fontakraftona" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 心 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1237,7 +1258,10 @@
       "forms" : [ "liaxa" ]
     } ],
     "tags" : [ "krackrafi'a" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 終 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1533,7 +1557,10 @@
       "forms" : [ "dqa" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 三 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1742,7 +1769,10 @@
       "forms" : [ "tammua" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 皇水 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1861,7 +1891,10 @@
       "forms" : [ " xel" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 目 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1890,7 +1923,10 @@
       "forms" : [ "fas", "liaxi" ]
     } ],
     "tags" : [ "fontakraftona" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 始 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -1919,7 +1955,10 @@
       "forms" : [ " teles" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 為 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2238,7 +2277,10 @@
       "forms" : [ "launsar" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 下 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -2612,7 +2654,10 @@
       "forms" : [ "velfez" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 遊 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3092,7 +3137,10 @@
       "forms" : [ "-el" ]
     } ],
     "tags" : [ "ftlexest" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 術 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3147,7 +3195,10 @@
       "forms" : [ "(= o nip)" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 乎 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3217,7 +3268,10 @@
       "forms" : [ "waxes" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 別 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3230,10 +3284,13 @@
       "forms" : [ "waxes" ]
     }, {
       "title" : "kante",
-      "forms" : [ "furnkie" ]
+      "forms" : [ "waxes", "furnkie" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 別 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3246,7 +3303,10 @@
       "forms" : [ "siesej" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 躍躍 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3275,7 +3335,10 @@
       "forms" : [ "fyrstla", "lal" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 目之光 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3407,6 +3470,70 @@
     "contents" : [ {
       "title" : "",
       "text" : "cene linzklar 之 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99241,
+      "form" : "nuxep"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ny xerf" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 小 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99242,
+      "form" : "tan"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tam (cerke)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 皇 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99243,
+      "form" : "launza"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "launsar" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 下 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99244,
+      "form" : "e ticot-ticot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tisod" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 心心 leus krante fqa'd kraxaiun"
     } ],
     "variations" : [ ],
     "relations" : [ ]
