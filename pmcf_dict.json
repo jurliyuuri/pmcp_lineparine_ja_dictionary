@@ -1987,7 +1987,10 @@
       "forms" : [ "stodup" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 増 leus krante fqa'd kraxaiun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -3535,6 +3538,150 @@
       "title" : "",
       "text" : "cene linzklar 心心 leus krante fqa'd kraxaiun"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99245,
+      "form" : "e xace"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xace" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "slaxers" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99246,
+      "form" : "nuwaxec"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ny waxes" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fean" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99247,
+      "form" : "panka"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "panqa" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "panqa", "tesyl lot" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 善 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99248,
+      "form" : "pan"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "panqa" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "navaxon" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 一 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99249,
+      "form" : "cet"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "set" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99250,
+      "form" : "tata"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "tatha" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "nujonon" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99251,
+      "form" : "e mili"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "mili" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99252,
+      "form" : "e icalat"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ircalart" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es ircalart" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99253,
+      "form" : "icalat"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ircalart" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ircalart lot" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
