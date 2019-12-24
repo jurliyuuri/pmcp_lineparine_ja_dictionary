@@ -3710,6 +3710,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99257,
+      "form" : "mak-mak"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "mak" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fhaotce" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "cene linzklar 再再 leus krante fqa'd kraxaiun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
