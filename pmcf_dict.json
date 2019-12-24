@@ -1810,7 +1810,7 @@
   }, {
     "entry" : {
       "id" : 73106,
-      "form" : "cukulal "
+      "form" : "cukulal"
     },
     "translations" : [ {
       "title" : "farteven",
@@ -1826,7 +1826,7 @@
   }, {
     "entry" : {
       "id" : 16544,
-      "form" : "lukup-lukup "
+      "form" : "lukup-lukup"
     },
     "translations" : [ {
       "title" : "farteven",
@@ -1845,7 +1845,7 @@
   }, {
     "entry" : {
       "id" : 46228,
-      "form" : "cacija "
+      "form" : "cacija"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
@@ -1871,7 +1871,7 @@
   }, {
     "entry" : {
       "id" : 18098,
-      "form" : "tulijo "
+      "form" : "tulijo"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
@@ -1884,7 +1884,7 @@
   }, {
     "entry" : {
       "id" : 96421,
-      "form" : "e xel "
+      "form" : "e xel"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
@@ -1900,11 +1900,11 @@
   }, {
     "entry" : {
       "id" : 48916,
-      "form" : "pecta "
+      "form" : "pecta"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
-      "forms" : [ " pesta " ]
+      "forms" : [ "pesta" ]
     } ],
     "tags" : [ "krackrafi'a" ],
     "contents" : [ ],
@@ -1913,7 +1913,7 @@
   }, {
     "entry" : {
       "id" : 63895,
-      "form" : "pac "
+      "form" : "pac"
     },
     "translations" : [ {
       "title" : "farteven",
@@ -1932,7 +1932,7 @@
   }, {
     "entry" : {
       "id" : 39027,
-      "form" : "e kojowi "
+      "form" : "e kojowi"
     },
     "translations" : [ {
       "title" : "farteven ad kante",
@@ -1945,7 +1945,7 @@
   }, {
     "entry" : {
       "id" : 33280,
-      "form" : "it "
+      "form" : "it"
     },
     "translations" : [ {
       "title" : "farteven",
