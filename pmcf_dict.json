@@ -3729,6 +3729,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99258,
+      "form" : "xon"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xorln" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "juren" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99259,
+      "form" : "xon"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xorln" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "juron" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
