@@ -2795,8 +2795,11 @@
       "form" : "cucit"
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
+      "title" : "farteven",
       "forms" : [ "stystist" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stistyst" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -3758,6 +3761,58 @@
       "forms" : [ "juron" ]
     } ],
     "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99260,
+      "form" : "pelkana"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "felkana" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99261,
+      "form" : "kucte"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "gustuer" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99262,
+      "form" : "badut"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "vadyrd" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99263,
+      "form" : "cictuc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "stistyst" ]
+    } ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
