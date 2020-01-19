@@ -3816,6 +3816,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99264,
+      "form" : "etolijo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jeteulyo" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
