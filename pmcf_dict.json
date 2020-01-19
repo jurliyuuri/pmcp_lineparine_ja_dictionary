@@ -3884,6 +3884,45 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99269,
+      "form" : "cala"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "salarua" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99270,
+      "form" : "tap"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tarf" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99271,
+      "form" : "lipalain"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lipalain" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
