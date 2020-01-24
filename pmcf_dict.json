@@ -3923,6 +3923,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99272,
+      "form" : "duxe"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "durxe" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "durxe", "snirorerl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99273,
+      "form" : "e cut"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "stiestud", "stystist", "stistyst" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stiestud" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
