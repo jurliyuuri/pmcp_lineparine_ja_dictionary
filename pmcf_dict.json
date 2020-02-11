@@ -3981,6 +3981,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99276,
+      "form" : "bule"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "vyrle" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
