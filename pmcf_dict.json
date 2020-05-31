@@ -4020,6 +4020,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99279,
+      "form" : "neo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "naiwou.ar" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "dosnetost" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
