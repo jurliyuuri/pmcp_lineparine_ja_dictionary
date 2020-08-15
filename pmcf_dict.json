@@ -3816,6 +3816,226 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99264,
+      "form" : "etolijo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jeteulyo" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99265,
+      "form" : "naxe"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "nacye" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99266,
+      "form" : "calawa"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "salarua" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99267,
+      "form" : "xace"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "xace" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99268,
+      "form" : "xep u"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xerf ur" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "xenonen ur" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99269,
+      "form" : "cala"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "salarua" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99270,
+      "form" : "tap"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tarf" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99271,
+      "form" : "lipalain"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lipalain" ]
+    } ],
+    "tags" : [ "kraftan" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99272,
+      "form" : "duxe"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "durxe" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "durxe", "snirorerl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99273,
+      "form" : "e cut"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "stiestud", "stystist", "stistyst" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stiestud" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99274,
+      "form" : "pebut"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "pievyt" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99275,
+      "form" : "lin"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ales.lin" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99276,
+      "form" : "bule"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "vyrle" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99277,
+      "form" : "okijau"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "horgiau" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99278,
+      "form" : "kamut"
+    },
+    "translations" : [ {
+      "title" : "kante",
+      "forms" : [ "brjerxan" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99279,
+      "form" : "neo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "naiwou.ar" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "dosnetost" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
