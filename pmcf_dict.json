@@ -4036,6 +4036,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99280,
+      "form" : "e cecnut"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "sesnud" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
