@@ -4107,6 +4107,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99285,
+      "form" : "dictic"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "dystis" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "dystis", "leryn" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
