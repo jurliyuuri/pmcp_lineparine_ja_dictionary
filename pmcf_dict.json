@@ -4123,6 +4123,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99286,
+      "form" : "toni"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tonir" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99287,
+      "form" : "lot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "rout" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
