@@ -4753,6 +4753,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99331,
+      "form" : "kante"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "krante" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "krantergel" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
