@@ -1123,7 +1123,7 @@
       "title" : "kante",
       "forms" : [ "mal", "pa" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "kranti'a" ],
     "contents" : [ {
       "title" : "",
       "text" : "cene linzklar 而 leus krante fqa'd kraxaiun"
@@ -3324,7 +3324,7 @@
       "title" : "farteven ad kante",
       "forms" : [ "fiurs" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3340,7 +3340,7 @@
       "title" : "kante",
       "forms" : [ "fyrstla", "lal" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ {
       "title" : "",
       "text" : "cene linzklar 目之光 leus krante fqa'd kraxaiun"
@@ -4851,6 +4851,157 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "firjal" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99338,
+      "form" : "izole"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "itiol + -er" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "sjaer" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99339,
+      "form" : "zixo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "zisho.ar" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "vatimel" ]
+    } ],
+    "tags" : [ "kranti'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99340,
+      "form" : "ezoc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ezost" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99341,
+      "form" : "inlin"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ingglim" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ingglimil" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99342,
+      "form" : "e delne"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "delnen", "deln-e-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es delnen" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99343,
+      "form" : "e lacik"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "la + -syk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es fyrfsyk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99344,
+      "form" : "e jonuc"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "es jonus" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99345,
+      "form" : "kalzane"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "kalzanen" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "kalzaneno" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99346,
+      "form" : "tecnulo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "stesnulo" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stesnulo iulo" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99347,
+      "form" : "lanija"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lani'ar" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
