@@ -731,7 +731,7 @@
       "title" : "kante",
       "forms" : [ "io", "-'i", "el" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "kraftanix" ],
     "contents" : [ {
       "title" : "",
       "text" : "cene linzklar 於 leus krante fqa'd kraxaiun"
@@ -5004,6 +5004,186 @@
       "forms" : [ "lani'ar" ]
     } ],
     "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99348,
+      "form" : "e atakec"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "atakes" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "atakeses" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99349,
+      "form" : "xiponte"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xifonten" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "xifont" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99350,
+      "form" : "jol"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jol" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99351,
+      "form" : "nucet"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ny set" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "ezon niv" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99352,
+      "form" : "e penten"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "fenten" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99353,
+      "form" : "e pectel"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "pestel" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99354,
+      "form" : "micca"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "misca" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99355,
+      "form" : "nekuwai"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "niek1 uai1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "varxlekung" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99356,
+      "form" : "pente"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "fente-" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "nacisan" ]
+    } ],
+    "tags" : [ "kraftanix" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99357,
+      "form" : "xibacke"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xibacken" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "xiback" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99358,
+      "form" : "wekupolto"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "wequu.ar + polto" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "naciselstal" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99359,
+      "form" : "e nucunet"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ny + sneiet" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es virben", "es felvis" ]
+    } ],
+    "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
