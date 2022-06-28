@@ -5187,6 +5187,225 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99360,
+      "form" : "tude"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "tydiest" ]
+    } ],
+    "tags" : [ "pestarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99361,
+      "form" : "kije"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "klie" ]
+    } ],
+    "tags" : [ "pestarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99362,
+      "form" : "mol"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "mol" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "liaxu" ]
+    } ],
+    "tags" : [ "pestarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99363,
+      "form" : "cik"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "-syk" ]
+    } ],
+    "tags" : [ "pestarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99364,
+      "form" : "elmetude"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "elme + tydiest" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "cexeno" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99365,
+      "form" : "lalac"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "la + -nasch" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "snosti" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99366,
+      "form" : "e batin"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "vatin" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99367,
+      "form" : "etec"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "jetes" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "jeteson" ]
+    } ],
+    "tags" : [ "fastarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99368,
+      "form" : "pate"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "farte" ]
+    } ],
+    "tags" : [ "fastarkraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99369,
+      "form" : "e noctu"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "nostuj" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99370,
+      "form" : "e malup"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "malef", "malf" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es malef", "es malf" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99371,
+      "form" : "xel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fyrstla" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99372,
+      "form" : "e etec"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "jetes" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "es jetes" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99373,
+      "form" : "papel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "farfel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "fal narvunsarlasykol" ]
+    } ],
+    "tags" : [ "krackrafi'a" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99374,
+      "form" : "e cuctot"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "systod" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
