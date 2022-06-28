@@ -4769,6 +4769,93 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99332,
+      "form" : "xope"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "xoupwei.ar" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "at" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99333,
+      "form" : "ezulo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ez iulo" ]
+    } ],
+    "tags" : [ "fontakraftona" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99334,
+      "form" : "dicticlauzaite"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "dystis + lauzait.pmcp + -er" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "larjelmer" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99335,
+      "form" : "tidip"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tydiv" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99336,
+      "form" : "aciltidip"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "acirl + tydiv" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "lojuk" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99337,
+      "form" : "pijal"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "firjal" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
