@@ -1161,7 +1161,7 @@
       "forms" : [ "jusci [kije]", "firlex e'c [kije]", "jel e'c" ]
     }, {
       "title" : "linzklar",
-      "forms" : [ "心" ]
+      "forms" : [ "思", "(心)" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1543,7 +1543,7 @@
       "forms" : [ "qa" ]
     }, {
       "title" : "linzklar",
-      "forms" : [ "再", "二" ]
+      "forms" : [ "二", "(再) " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1592,6 +1592,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "iupqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "四" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1605,6 +1608,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "neoqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "五" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1618,6 +1624,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "xantaqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "六" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1631,6 +1640,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "xenqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "七" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1644,6 +1656,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "lekqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "八" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1657,6 +1672,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "fentiqa" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "九" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1839,6 +1857,9 @@
     }, {
       "title" : "kante",
       "forms" : [ " aklurpti'a" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "絵" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -1884,6 +1905,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "mele" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "近" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -2669,6 +2693,9 @@
     }, {
       "title" : "kante",
       "forms" : [ "perger" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "牌" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -2714,6 +2741,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "dytysn" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "新" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3082,6 +3112,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "mele" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "近" ]
     } ],
     "tags" : [ "kraftan" ],
     "contents" : [ ],
@@ -3095,6 +3128,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "snutok" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "囲" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -3137,6 +3173,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "lusus" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "終" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -3152,9 +3191,12 @@
       "forms" : [ "xot1.pk" ]
     }, {
       "title" : "kante",
-      "forms" : [ "paltauil" ]
+      "forms" : [ "paltauil (cerke)" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "季" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3166,6 +3208,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "deln" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "黒" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4045,6 +4090,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "ales.lin" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "清" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -4113,6 +4161,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "sesnud" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "守" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4836,6 +4887,9 @@
     }, {
       "title" : "kante",
       "forms" : [ "krantergel" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "筆術" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -5000,6 +5054,9 @@
     }, {
       "title" : "kante",
       "forms" : [ "es delnen" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "黒" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5584,6 +5641,101 @@
     }, {
       "title" : "linzklar",
       "forms" : [ "皇山" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99381,
+      "form" : "kopzo"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "hop1 zuo1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "surulume", "surulumergal" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "手片" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99382,
+      "form" : "wai"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "uai1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "varxle (cerke)" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "将" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99383,
+      "form" : "e tectel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "destel", "festel" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "snojij" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "定" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99384,
+      "form" : "taxot"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ta xot1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "taxt (cerke)" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "終季" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99385,
+      "form" : "tumok"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "ty mok1.pk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "tymorko" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "再行" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
