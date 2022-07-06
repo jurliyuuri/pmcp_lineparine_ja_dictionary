@@ -418,6 +418,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "feg" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "顔" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -3938,6 +3941,9 @@
     "translations" : [ {
       "title" : "farteven ad kante",
       "forms" : [ "jeteulyo" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "衣" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -5738,6 +5744,195 @@
       "forms" : [ "再行" ]
     } ],
     "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99386,
+      "form" : "zexo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "zexi'o" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "機絵" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99387,
+      "form" : "lal"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lal" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99388,
+      "form" : "e lal"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "lales" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99389,
+      "form" : "etolo"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jeteulyo" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "衣" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99390,
+      "form" : "exut"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "jexyst" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "竹" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99391,
+      "form" : "e delun"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "deln" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "黒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99392,
+      "form" : "lape"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "la + -effe" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "snelesn" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "上" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99393,
+      "form" : "paube"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "fao -v- er" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "faoen larta", "faoen mors" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99394,
+      "form" : "e anpamija"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "anfarmia" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99395,
+      "form" : "etolocna"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "etulyo + -sna" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "etulyo" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "糸" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99396,
+      "form" : "ipe-it"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "ifie" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "包" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99397,
+      "form" : "etolocna-it"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "etulyo + -sna" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "(etulyo leus) olosse" ]
+    } ],
+    "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
