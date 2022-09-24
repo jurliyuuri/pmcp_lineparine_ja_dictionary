@@ -5936,6 +5936,70 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99398,
+      "form" : "cucnijamac"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "stusni'amars" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "stusni'amars", "etva" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99399,
+      "form" : "alailen"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "aloajerlerm" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "aloajerlerm", "ferlk (fon larta ad mors)" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99400,
+      "form" : "alowaelen"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "aloajerlerm" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99401,
+      "form" : "kijabezu"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "kjabetu.tk" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "hiarbet" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "心圧" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
