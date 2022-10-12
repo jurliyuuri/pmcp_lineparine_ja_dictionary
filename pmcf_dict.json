@@ -6111,6 +6111,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99408,
+      "form" : "tecile"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tesyler" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
