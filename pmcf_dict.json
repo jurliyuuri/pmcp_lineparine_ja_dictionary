@@ -4388,8 +4388,11 @@
       "form" : "bepale"
     },
     "translations" : [ {
-      "title" : "farteven ad kante",
-      "forms" : [ "vepalea" ]
+      "title" : "farteven",
+      "forms" : [ "vepalea.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "vepalea, leviarci, cestelefevirt" ]
     } ],
     "tags" : [ "ftlexest" ],
     "contents" : [ ],
@@ -5997,6 +6000,127 @@
       "forms" : [ "心圧" ]
     } ],
     "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99402,
+      "form" : "etecel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "jeteserl.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "eteseleserl, -te" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "位" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99403,
+      "form" : "etecel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "jeteserl.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "jeteserl" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99404,
+      "form" : "penal"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "pernal.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "pernal" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "座処" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99405,
+      "form" : "keluc"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "kelux.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "alarta fua rerxo o velfez" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99406,
+      "form" : "e nectel"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "snestul.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "snestul" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "細" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99407,
+      "form" : "bapala"
+    },
+    "translations" : [ {
+      "title" : "farteven",
+      "forms" : [ "vepalea.lip" ]
+    }, {
+      "title" : "kante",
+      "forms" : [ "vepalea, jexerrt, deiet" ]
+    }, {
+      "title" : "linzklar",
+      "forms" : [ "平" ]
+    } ],
+    "tags" : [ "ftlexest" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 99408,
+      "form" : "tecile"
+    },
+    "translations" : [ {
+      "title" : "farteven ad kante",
+      "forms" : [ "tesyler" ]
+    } ],
+    "tags" : [ "ftlexest" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
