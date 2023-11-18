@@ -1,4 +1,4 @@
-# pmcp_dictionary
+# pmcp_lineparine_ja_dictionary
 
 Fqa es Pemecepelukuppen levip fal lineparine.
 
