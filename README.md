@@ -31,5 +31,5 @@ ekcanunsarstes [ZpDIC](http://ziphil.com/application/download/2.html) ad *pmcf_d
 5. laozia dytysn *pull request*. / 新しいプルリクエストを作成してください。
 
 ## laoziaversti / 作者
-jekto.vatimeliju / [@hsjoihs](https://twitter.com/hsjoihs) 
+jekto.vatimeliju / [@hsjoihs](https://twitter.com/hsjoihs)  
 falira.lyjotafis / [@S_Y15](https://twitter.com/S_Y15)
