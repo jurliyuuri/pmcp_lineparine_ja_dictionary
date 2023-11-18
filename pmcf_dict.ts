@@ -1177,11 +1177,11 @@ const dict: Dict = {
       "form": "e ticot"
     },
     "translations": [{
-      "title": "farteven ad kante",
+      "title": "farteven",
       "forms": ["tisod"]
     }, {
       "title": "kante",
-      "forms": ["jusci [kije]", "firlex e'c [kije]", "jel e'c"]
+      "forms": ["tisod", "jusci [kije]", "firlex e'c [kije]", "jel e'c"]
     }, {
       "title": "linzklar",
       "forms": ["思", "(心)"]
@@ -2122,7 +2122,7 @@ const dict: Dict = {
       "form": "e pijen"
     },
     "translations": [{
-      "title": "farteven ad kante",
+      "title": "farteven",
       "forms": ["pi'en"]
     }, {
       "title": "kante",
