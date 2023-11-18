@@ -1,11 +1,14 @@
 type Tag = "ftlexest" | "kraftanix" | "krackrafi'a" | "kraftan" | "kranti'a" | "fastarkraftona" | "pestarkraftona";
-type Translation = { title: TranslationTitle, forms: string[] };
-type TranslationTitle = "farteven ad kante" | "linzklar" | "farteven" | "kante";
+type TranslationFKJoined = { title: "farteven ad kante", forms: string[] };
+type TranslationFKSeparate = { title: "farteven" | "kante", forms: string[] };
+type LinzklarTranslation = { title: "linzklar", forms: string[] };
 type Content = { title: "nefisna" | "harda kraxaiun", text: string };
 type Dict = {
   words: {
     entry: { id: number, form: string },
-    translations: Translation[],
+    translations:
+    (TranslationFKJoined | LinzklarTranslation)[] |
+    (TranslationFKSeparate | LinzklarTranslation)[],
     tags: Tag[],
     contents: Content[],
     variations: [],
