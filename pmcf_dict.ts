@@ -268,11 +268,11 @@ const dict: Dict = {
       "form": "kantel"
     },
     "translations": [{
-      "title": "farteven ad kante",
+      "title": "farteven",
       "forms": ["kranteerl"]
     }, {
       "title": "kante",
-      "forms": ["qanteo"]
+      "forms": ["kranteerl", "qanteo"]
     }],
     "tags": ["ftlexest"],
     "contents": [],
