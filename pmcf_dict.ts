@@ -1,19 +1,7 @@
-type Tag = "ftlexest" | "kraftanix" | "krackrafi'a" | "kraftan" | "kranti'a" | "fastarkraftona" | "pestarkraftona";
-type TranslationFKJoined = { title: "farteven ad kante", forms: string[] };
-type TranslationFKSeparate = { title: "farteven" | "kante", forms: string[] };
-type LinzklarTranslation = { title: "linzklar", forms: string[] };
-type Content = { title: "nefisna" | "harda kraxaiun", text: string };
+import { Word } from "./type.ts";
+
 type Dict = {
-  words: {
-    entry: { id: number, form: string },
-    translations:
-    (TranslationFKJoined | LinzklarTranslation)[] |
-    (TranslationFKSeparate | LinzklarTranslation)[],
-    tags: Tag[],
-    contents: Content[],
-    variations: [],
-    relations: [],
-  }[],
+  words: Word[],
   zpdic: unknown,
   snoj: unknown
 };
