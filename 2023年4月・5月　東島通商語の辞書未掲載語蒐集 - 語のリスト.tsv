@@ -46,14 +46,14 @@ E BILATE	動詞	我々の遊戯-text	2023/04/30		組み合わさる		virlarte	�
 NUCUCITAL	名詞	我々の遊戯-text	2023/04/30		端		NU.pmcf + CUCITAL.pmcf		
 CUCITAL	名詞	我々の遊戯-text	2023/04/30		中央	sysit	sysit + -al	中心	「虎」との衝突を避けた
 LAIJU LETI KIN	複合名詞	我々の遊戯-text	2023/04/30		連番		E LAIJU.pmcf + KIN.pmcf		
-E LAIJU	動詞	我々の遊戯-text	2023/04/30		並ぶ		leiju		
+E LAIJU	動詞	我々の遊戯-text	2023/04/30		並ぶ	laozia leiju, en leiju'c, es fal leiju	leiju		
 LAIJU	名詞	我々の遊戯-text	2023/04/30		列、行列、順番	（左に同じ）	leiju		
 LAP	副詞	我々の遊戯-text	2023/04/30		だけ	（左に同じ）	lap		
 CEKEL	名詞	我々の遊戯-text	2023/04/30		報酬、配当		cergel	お返し、報酬	
 TEK	名詞	我々の遊戯-text	2023/04/30		合計、和	（左に同じ）	terk		
 XILEJA	名詞	我々の遊戯-text	2023/04/30		オモテ		xlear	表面	
 E KANICITI	動詞	我々の遊戯-text	2023/04/30		有名な、人気がある	（左に同じ）	kaniciti		
-CUBELPIC	名詞	我々の遊戯-text	2023/04/30		賭博		su1.pk + BELPIC.pmcf		
+CUBELPIC	名詞	我々の遊戯-text	2023/04/30		賭博	velfezaino	su1.pk + BELPIC.pmcf		
 E CUTEWEN	動詞	我々の遊戯-text	2023/04/30		平らな	（左に同じ）	stlerven		
 E CIKINA	動詞	我々の遊戯-text	2023/04/30		（困難を）避ける	（左に同じ）	cikina		
 E DELEJE	動詞	我々の遊戯-text	2023/04/30		引き分けの	（左に同じ）	deleje		
@@ -118,7 +118,7 @@ zuwo	名詞	PMCF ポスター			ツウォ（一日の百分の一）	xinesnenik	
 keluc	名詞	PMCF ポスター	2022/10/13	悠F Discord	遊戯大会	kelux	alarta z'es rerxo		
 penal	名詞	悠F Discord	2022/10/13	悠F Discord	座席	（左に同じ）	pernal		
 etecel-it	動詞	悠F Discord	2022/10/13	悠F Discord	順位をつける	（左に同じ）	eteseles		
-e etecel	動詞	悠F Discord	2022/10/13	悠F Discord	速度を出す		etecel.pmcp		
+e etecel	動詞	悠F Discord	2022/10/13	悠F Discord	速度を出す		etecel.pmcp		協議の結果、ひとまず却下
 etecel	名詞	悠F Discord	2022/10/13	悠F Discord	速さ、順位、～番目		jeteserl		
 tecile	名詞	PMCF ポスター			名人	（左に同じ）	tesyler		
 cuwelo	名詞	日本机戦連盟サイトPMCF訳	2022/10/8	日本机戦連盟サイトPMCF訳	丸	rafte	cwelo.ar	玉、団子	
