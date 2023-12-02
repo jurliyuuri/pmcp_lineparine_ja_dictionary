@@ -13,19 +13,19 @@ CEXE	名詞	我々の遊戯-text	2023/05/01		立方体	cerxe z'es stiesup	cerxe	
 NETAUK	名詞	我々の遊戯-text	2023/05/01		奇数	（左に同じ）	nertalg		
 XACTIJE	名詞	我々の遊戯-text	2023/05/01		補給	dzastiergo	dzastie	充電する、軍事的な補給をする、充填する	（東島通商語では名詞として入っている）
 TUWALENIJA	名詞	我々の遊戯-text	2023/05/01		略奪	（左に同じ）	tvalenia		
-DICNOCIT	動詞	我々の遊戯-text	2023/05/01		運転する		disnost	走る、運転する	
-E DICNOC	動詞	我々の遊戯-text	2023/05/01		走る		disnost	走る、運転する	
+DICNOCIT	動詞	我々の遊戯-text	2023/05/01		運転する	(fhasfha'i) disnost	disnost	走る、運転する	
+E DICNOC	動詞	我々の遊戯-text	2023/05/01		走る	(nime'd lovim leus) disnost	disnost	走る、運転する	
 KINLUJOT	名詞	我々の遊戯-text	2023/05/01		数を表す文字としての数字	（左に同じ）	KIN.pmcf + LUJOT.pmcf		
 MOT	名詞	我々の遊戯-text	2023/05/01		裏	（左に同じ）	moth		
 ELME-IT	動詞	我々の遊戯-text	2023/05/01		勝負する、戦う	（左に同じ）	ELME.pmcf + IT.pmcf		
 LACILA	名詞	我々の遊戯-text	2023/05/01		実際、事実	（左に同じ）	la cirla		
-CIPOTO	名詞	我々の遊戯-text	2023/05/01		あっち側、あちら、そっち側、そちら		CI.pmcf + COTO.pmcf		
-KAPOTO	名詞	我々の遊戯-text	2023/05/01		こっち側、こちら		KA.pmcf + POTO.pmcf	（X LETI KAPOTOで） Xよりこっち側	
+CIPOTO	名詞	我々の遊戯-text	2023/05/01		あっち側、あちら、そっち側、そちら	systyr	CI.pmcf + POTO.pmcf		
+KAPOTO	名詞	我々の遊戯-text	2023/05/01		こっち側、こちら	jysnys	KA.pmcf + POTO.pmcf	（X LETI KAPOTOで） Xよりこっち側	
 PUXI	名詞	我々の遊戯-text	2023/05/01		余り、余計なもの	pyxi'd mors, anfilerl	pyxi		
 XEP-IT	動詞	我々の遊戯-text	2023/05/01		大きくする、拡張する	xerfes, kinieses	XEP.pmcf + -IT.pmcf		
 KACE-IT	動詞	我々の遊戯-text	2023/05/01		示す、見せる、カードを出す	（左に同じ）	karse		
 JUKENEL	名詞	我々の遊戯-text	2023/05/01		上限	（左に同じ）	jurkenel		
-(E MOP) / MOPLETI / MOBIT	動詞	我々の遊戯-text	2023/05/01		真似をする、かたどる		mioves	真似をする	
+(E MOP) / MOPLETI / MOBIT	動詞	我々の遊戯-text	2023/05/01		真似をする、かたどる	movies, stiesup io xalerlurfavon laozia fhasfa	mioves	真似をする	
 KAK	名詞	我々の遊戯-text	2023/05/01		価値	（左に同じ）	hark		
 DENEPOC	名詞	我々の遊戯-text	2023/05/01		条件	（左に同じ）	dhenefos		
 NUWATAKEC-IT	動詞	我々の遊戯-text	2023/05/01		引き算する		ny atakes		（「XひくYはZ」は "NUWATAKECIT Y JO X LETI E Z"）
@@ -40,7 +40,7 @@ E DELEC	動詞	我々の遊戯-text	2023/04/30		必要である	es delusen	deles
 DEXAMOCEL	名詞	我々の遊戯-text	2023/04/30		コスト		dexamolserl	消費されるもの	
 MOLKA	名詞	我々の遊戯-text	2023/04/30		勝利	molkkavo	molkka	勝利する	
 CUCNIT	動詞	我々の遊戯-text	2023/04/30		～を掛け算する		stusni	(-'sは-'iと-'cを)掛けたものである	本来 E CUCNI - CUCNIIT と綴られるべき語だが、自動詞で用いることがないため CUCNIT と綴る。
-NIP-NOLE	副詞	我々の遊戯-text	2023/04/30		すぐに		NIP.pmcf + NOLE.pmcf		
+NIP-NOLE	副詞	我々の遊戯-text	2023/04/30		すぐに	etixon	NIP.pmcf + NOLE.pmcf		
 E ZEL	動詞	我々の遊戯-text	2023/04/30		続く	（左に同じ）	zel		
 E BILATE	動詞	我々の遊戯-text	2023/04/30		組み合わさる		virlarte	組み合わせる	
 NUCUCITAL	名詞	我々の遊戯-text	2023/04/30		端		NU.pmcf + CUCITAL.pmcf		
@@ -61,12 +61,12 @@ ZELENA	名詞	我々の遊戯-text	2023/04/30		階級、強弱、（NLETI ZELENA
 TECNOK	名詞	我々の遊戯-text	2023/04/29		右	（左に同じ）	tesnok		
 JUCNE	名詞	我々の遊戯-text	2023/04/29		度量衡の単位	（左に同じ）	jysnej		
 PAMEC-IT	動詞	我々の遊戯-text	2023/04/29		〜を許可する、〜を許す	（左に同じ）	farmes		
-LUKXE	名詞	我々の遊戯-text	2023/04/29		塔、山札		luhxe	塔；接地面が小さくたてに長い構造物	
+LUKXE	名詞	我々の遊戯-text	2023/04/29		塔、山札	luhxe, inivepalea (l'ekcan vepalea fua fix'onemo)	luhxe	塔；接地面が小さくたてに長い構造物	
 PALBITIXUMO	名詞	我々の遊戯-text	2023/04/29		経路		falvitisiumo	経路、航空路	
 E KANKILE	名詞	我々の遊戯-text	2023/04/29		一時的だ		hankirle	一時的に	
 WACPALBIT	名詞	我々の遊戯-text	2023/04/29		変種、バリエーション	（左に同じ）	waxfalvit		
 E KINUNZA	動詞	我々の遊戯-text	2023/04/29		公開する、開示する	（左に同じ）	kinunsares		
-E MOWI	動詞	我々の遊戯-text	2023/04/29		愚かだ		movi	馬鹿、バカ、愚か	
+E MOWI	動詞	我々の遊戯-text	2023/04/29		愚かだ	es etxaata	movi	馬鹿、バカ、愚か	
 PANXENCO	名詞	我々の遊戯-text	2023/04/29		乱数	（左に同じ）	fanxensor		
 KINPECELA	名詞	我々の遊戯-text	2023/04/29		得点システム、（会社とかでの）評価制度	（左に同じ）	KIN.pmcp + PECELA.pmcp		
 PICE	名詞	我々の遊戯-text	2023/04/28		獣	（左に同じ）	pyse		
@@ -87,8 +87,8 @@ jule	名詞	我々の遊戯-text	2023/4/29		基本	（左に同じ）	gylery
 jule-leti	動詞	我々の遊戯-text	2023/4/29		基本的な	es gylerylen	gylery + leti		
 neclanac	名詞	我々の遊戯-text	2023/4/11		種類	（左に同じ）	neslanas		
 xane-leti	動詞	我々の遊戯-text	2023/4/11		面白い	（左に同じ）	xarne		
-numolka-it	動詞	我々の遊戯-text	2023/4/11		負ける		ny + molkka		
-molipka-it	動詞	我々の遊戯-text	2023/4/11		負ける		molkka + niv		
+numolka-it	動詞	我々の遊戯-text	2023/4/11		負ける	nilirs	ny + molkka		
+molipka-it	動詞	我々の遊戯-text	2023/4/11		負ける	nilirs	molkka + niv		
 paujun	名詞	我々の遊戯-text	2023/4/5		基準	（左に同じ）	faiium, foiium		
 enja	名詞	我々の遊戯-text	2023/4/5		仕事、役職	（左に同じ）	en'iar		
 nocti	名詞	我々の遊戯-text	2023/4/5		特徴	（左に同じ）	snosti		
