@@ -6,7 +6,7 @@ type Dict = {
   snoj: unknown
 };
 
-const dict: Dict = {
+export const dict: Dict = {
   "words": [{
     "entry": {
       "id": 89914,

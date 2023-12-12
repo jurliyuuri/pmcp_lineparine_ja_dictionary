@@ -41,6 +41,54 @@ function to_kana(str: string): string {
   return ans;
 }
 
+function compare_kana(s1: string, s2: string): 0 | 1 | -1 {
+  const replacer = (s: string) => s
+    .replace(/'ァ'/g, 'ア')
+    .replace(/'ィ'/g, 'イ')
+    .replace(/'ゥ'/g, 'ウ')
+    .replace(/'ェ'/g, 'エ')
+    .replace(/'ォ'/g, 'オ')
+    .replace(/'ャ'/g, 'ヤ')
+    .replace(/'ュ'/g, 'ユ')
+    .replace(/'ョ'/g, 'ヨ')
+    .replace(/'ㇳ'/g, 'ト')
+    .replace(/'ㇰ'/g, 'ク')
+    .replace(/'ㇽ'/g, 'ル')
+    .replace(/'ㇲ'/g, 'ス')
+    .replace(/'ㇷ゚'/g, 'プ')
+    ;
+
+  const t1 = replacer(s1);
+  const t2 = replacer(s2);
+
+  return t1 < t2 ? -1 : t1 === t2 ? 0 : 1;
+}
+
 test_cases.forEach(([pmcp, kana]) => {
   console.assert(to_kana(pmcp) === kana, to_kana(pmcp), kana)
 });
+
+import { dict } from './pmcf_dict.ts';
+
+import pmcf_2023_11 from "./pmcf_2023_11.json" with { type: "json" };
+
+import pmcp_2023_4_5_words from "./pmcp_2023_4_5_words.json" with { type: "json" };
+
+const words: string[] = [
+  /* pmcf_dict 由来のもの */
+  ...dict.words.map(a => a.entry.form),
+  ...pmcf_2023_11.map(a => a.語),
+  ...pmcp_2023_4_5_words
+];
+
+const kana_words = words.flatMap(form => {
+  const normalized_entry = form.replace(/\./g, " ").replace(/[-*]/g, "").toLowerCase().replace(/^e /, "")
+  if (normalized_entry === "textel" || normalized_entry === "jujojit") { return []; }
+  return [normalized_entry.split(" ").map(to_kana).join("・")];
+});
+
+const kana_words_unique = [...new Set(kana_words)];
+
+kana_words_unique.sort(compare_kana);
+
+console.log(JSON.stringify(kana_words_unique));
