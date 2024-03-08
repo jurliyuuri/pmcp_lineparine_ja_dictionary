@@ -1,0 +1,558 @@
+"MI"
+"CO"
+"KA"
+"CI"
+"KAME"
+"LUKUP"
+"LATA"
+"NOLE"
+"POTO"
+"POLTO"
+"NALU"
+"JULO"
+"ICIC"
+"LIKKA"
+"PAPUC"
+"KANTEL"
+"KULANTE"
+"BAL"
+"BEN"
+"ZAKAN-ZAKAN"
+"ZAKU"
+"CEP"
+"EP"
+"LUMAP"
+"ACKIC"
+"ET"
+"MOT"
+"PEK"
+"BIXE"
+"BEK"
+"E"
+"ANPE"
+"KAPA"
+"PON"
+"PONTO"
+"CILA"
+"ANXAN"
+"TATA" [用言]
+"DAPAL" [用言]
+"KABE"
+"JATPEK" [用言]
+"ADIKTI"
+"ANKALEP" [用言]
+"PIP" [用言]
+"PINIC" [用言]
+"NUPUC" [用言]
+"AKXAC" [用言]
+"LEC"
+"PAK" [用言]
+"LELEC" [用言]
+"CUNET" [用言]
+"JO"
+"TUDE" [用言]
+"PEN" [用言]
+"E"
+"TUWACA" [用言]
+"ICE" [用言]
+"NIP" [用言]
+"BI" [用言]
+"PANKA" [用言]
+"PAN" [用言]
+"CET" [用言]
+"E"
+"XIZI"
+"LUC" [用言]
+"LUKUP" [用言]
+"MOL"
+"LINEPAINE"
+"KUNLAN" [用言]
+"CULUP"
+"KADA"
+"ALEPIC"
+"KIJE" [用言]
+"BEPICE"
+"AIL"
+"AILILU"
+"TAKAN"
+"PI"
+"TICOT" [用言]
+"NIP"
+"CENE"
+"CELENE"
+"DELU"
+"DELIJU"
+"LIJU" [用言]
+"LUCU"
+"NAT"
+"CILA"
+"A"
+"LUJOT"
+"PEMECEPE"
+"LATAPANKA" [用言]
+"CU" [用言]
+"CUN" [用言]
+"AT"
+"O"
+"NIN" [用言]
+"METICA"
+"MAK"
+"AI"
+"XEP"
+"KA" [用言]
+"CENA"
+"MAK" [用言]
+"NIP" [用言]
+"DUKA" [用言]
+"JUP" [用言]
+"NOKA" [用言]
+"XANTA" [用言]
+"XEN" [用言]
+"LEKKA" [用言]
+"PENTI" [用言]
+"ANA"
+"XANA"
+"ANXAN"
+"CANA"
+"NIP" [用言]
+"KANTE" [用言]
+"KILE" [用言]
+"TANNA"
+"JA"
+"MOLIP"
+"CUKULAL"
+"LUKUP-LUKUP"
+"CACIJA"
+"MELE"
+"TULIJO"
+"XEL" [用言]
+"PECTA"
+"PAC"
+"KOJOWI" [用言]
+"IT"
+"XALE"
+"CET" [用言]
+"ACIL"
+"MENIC"
+"PACCAMEL"
+"PULENZA"
+"PIJEN" [用言]
+"KAME"
+"LOT" [用言]
+"NULOT" [用言]
+"KELZA"
+"ELZA"
+"KIE"
+"KIN"
+"LEWIP"
+"KIN" [用言]
+"NIP"
+"ANCOL" [用言]
+"PONTALOEXO"
+"CUCEN"
+"LANCA"
+"LAUNCA"
+"LAIP"
+"CELEC" [用言]
+"CUPOI"
+"DEXAPE"
+"DEXAPE" [用言]
+"LIOWEL" [用言]
+"LET" [用言]
+"ZANTA"
+"JOJA"
+"PAWIL"
+"COXET" [用言]
+"PAWILEC" [用言]
+"UDICEL" [用言]
+"CUNEN" [用言]
+"NUPAK" [用言]
+"LECU"
+"ICPENEMEDANOT"
+"AUC"
+"KANTEL" [用言]
+"CUNENEK"
+"LATACET"
+"JOUP"
+"CETKAIK"
+"MO"
+"PAIKE"
+"BELPIC"
+"PENUL" [用言]
+"DUTUCUN" [用言]
+"LAUZA" [用言]
+"MOLKA" [用言]
+"CEPKULANTE"
+"PIJUME"
+"KUCTU"
+"XIJE"
+"DODO"
+"CUCIT"
+"XAN"
+"CAUPLA"
+"CEMOKO" [用言]
+"MENA"
+"DEC"
+"CEPAT"
+"PAPEL" [用言]
+"PULON" [用言]
+"PULAN" [用言]
+"LUDEC" [用言]
+"DOK" [用言]
+"TANKE"
+"XIJU"
+"XEPUDOC"
+"MELE"
+"NUTOK"
+"NECTUN" [用言]
+"TEXTEL" [用言]
+"LUCUC" [用言]
+"XOT"
+"DEL" [用言]
+"KECO"
+"CUL"
+"XEDIXEL"
+"KOCLIJA"
+"AIAU"
+"JUN"
+"CET"
+"ZO"
+"LATE"
+"WAXEC" [用言]
+"WAXEC" [用言]
+"CECE" [用言]
+"PIJUC"
+"PIJUC LETI KAPA"
+"ATALAN"
+"NUL"
+"BENAL"
+"MANMANA"
+"PEDE"
+"AIKIT"
+"NUPANKA" [用言]
+"PAN" [用言]
+"LETI"
+"NUXEP"
+"TAN"
+"LAUNZA"
+"TICOT-TICOT" [用言]
+"XACE" [用言]
+"NUWAXEC"
+"PANKA"
+"PAN"
+"CET"
+"TATA"
+"MILI" [用言]
+"ICALAT" [用言]
+"ICALAT"
+"OKICOL"
+"LEZI"
+"MAK-MAK"
+"XON"
+"XON"
+"PELKANA"
+"KUCTE"
+"BADUT"
+"CICTUC"
+"ETOLIJO"
+"NAXE"
+"CALAWA"
+"XACE"
+"XEP U"
+"CALA"
+"TAP"
+"LIPALAIN"
+"DUXE"
+"CUT" [用言]
+"PEBUT"
+"LIN"
+"BULE"
+"OKIJAU"
+"KAMUT"
+"NEO"
+"CECNUT" [用言]
+"LATE"
+"PECCA"
+"BELPIC" [用言]
+"ZAKAN-ZAKAN" [用言]
+"DICTIC"
+"TONI"
+"LOT"
+"PACCATTA"
+"EKCA" [用言]
+"CILA-CILA"
+"ZICEDOL"
+"PAIKLENE"
+"CIKILIOTIJE"
+"LATOT"
+"TOXA"
+"BEPALE"
+"NICNUC"
+"TAXU"
+"XEPECNE"
+"KUNCUK"
+"LIJON"
+"NICA"
+"LAPIMETE"
+"KULOC"
+"LANEME"
+"LINA"
+"ELMO"
+"LUJOTZO"
+"DIXEC"
+"NUKIL"
+"ECTAL"
+"ADOLPUT"
+"NENI"
+"LATAWELKEL"
+"TICOT"
+"TELEC"
+"JEXET"
+"XIPAJU"
+"CELECTAL"
+"BELPICKANTEL"
+"TUWACALIXA"
+"ENLADE" [用言]
+"PALBIC" [用言]
+"ULECEN" [用言]
+"CODU" [用言]
+"JUCNUK" [用言]
+"TIDEC" [用言]
+"UNDEMUNDE" [用言]
+"ELME" [用言]
+"NUCIK" [用言]
+"KANTE"
+"XOPE"
+"EZULO"
+"DICTICLAUZAITE"
+"TIDIP"
+"ACILTIDIP"
+"PIJAL"
+"IZOLE"
+"ZIXO"
+"EZOC"
+"INLIN"
+"DELNE" [用言]
+"LACIK" [用言]
+"JONUC" [用言]
+"KALZANE"
+"TECNULO"
+"LANIJA"
+"ATAKEC" [用言]
+"XIPONTE"
+"JOL"
+"NUCET"
+"PENTEN" [用言]
+"PECTEL" [用言]
+"MICCA"
+"NEKUWAI"
+"PENTE"
+"XIBACKE"
+"WEKUPOLTO"
+"NUCUNET" [用言]
+"TUDE"
+"KIJE"
+"MOL"
+"CIK"
+"ELMETUDE"
+"LALAC"
+"BATIN" [用言]
+"ETEC"
+"PATE"
+"NOCTU" [用言]
+"MALUP" [用言]
+"XEL"
+"ETEC" [用言]
+"PAPEL"
+"CUCTOT" [用言]
+"DAT"
+"ELME"
+"KUWA"
+"NUPAN" [用言]
+"PAN" [用言]
+"TANZO"
+"KOPZO"
+"WAI"
+"TECTEL" [用言]
+"TAXOT"
+"TUMOK"
+"ZEXO"
+"LAL"
+"LAL" [用言]
+"ETOLO"
+"EXUT"
+"DELUN" [用言]
+"LAPE"
+"PAUBE"
+"ANPAMIJA" [用言]
+"ETOLOCNA"
+"IPE" [用言]
+"ETOLOCNA" [用言]
+"CUCNIJAMAC"
+"ALAILEN"
+"ALOWAELEN"
+"KIJABEZU"
+"ETECEL"
+"ETECEL"
+"PENAL"
+"KELUC"
+"NECTEL" [用言]
+"BAPALA"
+"TECILE"
+"CENOC" [用言]
+"PULEC"
+"PULEC" [用言]
+"XEL-IT TUDE"
+"INIWI"
+"TUWACA" [用言]
+"ALWE"
+"XEKUMEL"
+"KULANUCTA"
+"LEADIJO"
+"XALE" [用言]
+"LILATA"
+"TUDEKILE"
+"LEXICNEN"
+"PATAC"
+"PECTEL JO" [用言]
+"PUPCUK"
+"PACLUKUP"
+"PAPCIL"
+"DOK" [用言]
+"DOK" [用言]
+"TIPAC"
+"ZAI"
+"DOCNETOC"
+"CEXEXIJU"
+"CEXE"
+"NETAUK"
+"XACTIJE"
+"TUWALENIJA"
+"DICNOCIT"
+"DICNOC" [用言]
+"KINLUJOT"
+"MOT"
+"ELME" [用言]
+"LACILA"
+"CIPOTO"
+"KAPOTO"
+"PUXI"
+"XEP" [用言]
+"KACE" [用言]
+"JUKENEL"
+"MOP" [用言]
+"MOPLETI"
+"MOBIT"
+"KAK"
+"DENEPOC"
+"NUWATAKEC" [用言]
+"LAUNZAKANTE"
+"LAPEKANTE"
+"INIMOC"
+"PENXE" [用言]
+"INPEL" [用言]
+"LIME"
+"NUDELEC" [用言]
+"DELEC" [用言]
+"DEXAMOCEL"
+"MOLKA"
+"CUCNIT"
+"NIP-NOLE"
+"ZEL" [用言]
+"BILATE" [用言]
+"NUCUCITAL"
+"CUCITAL"
+"LAIJU LETI KIN"
+"LAIJU" [用言]
+"LAIJU"
+"LAP"
+"CEKEL"
+"TEK"
+"XILEJA"
+"KANICITI" [用言]
+"CUBELPIC"
+"CUTEWEN" [用言]
+"CIKINA" [用言]
+"DELEJE" [用言]
+"ZELENA"
+"TECNOK"
+"JUCNE"
+"PAMEC" [用言]
+"LUKXE"
+"PALBITIXUMO"
+"KANKILE" [用言]
+"WACPALBIT"
+"KINUNZA" [用言]
+"MOWI" [用言]
+"PANXENCO"
+"KINPECELA"
+"PICE"
+"MANICOMA"
+"AZEPETE"
+"XENKAN" [用言]
+"CECIJO"
+"UNTIK"
+"AWI"
+"PULAC"
+"NUPAN" [用言]
+"PUPCUK" [用言]
+"INIXALE"
+"JECNUP"
+"CELA"
+"PECELA"
+"JULE"
+"JULE" [用言]
+"NECLANAC"
+"XANE" [用言]
+"NUMOLKA" [用言]
+"MOLIPKA" [用言]
+"PAUJUN"
+"ENJA"
+"NOCTI"
+"ANPE"
+"AMOL" [用言]
+"PEKENACIT"
+"MELPETAL"
+"TAXU"
+"ICCO"
+"LANUKENIC"
+"ACCA" [用言]
+"ALEC.LIN"
+"NACE" [用言]
+"NEXIJU"
+"NULOWIK" [用言]
+"LECTENEC" [用言]
+"LOWIK" [用言]
+"JACAMAL" [用言]
+"LAPI"
+"PINACTA"
+"-PINA"
+"NUWAO"
+"BELPIC" [用言]
+"IE-XO-KAT-IAT"
+"INUCI"
+"ZUWO"
+"KELUC"
+"PENAL"
+"ETECEL" [用言]
+"ETECEL" [用言]
+"ETECEL"
+"TECILE"
+"CUWELO"
+"CUCPEZEN"
+"AUTAKLAT"
+"APIJO"
+"WILE"
+"ULE"
+"PAKILE"
+"NALAU"
+"PIJI"
+"TAN LETI DEC"
+"NUBEPOK LETI DAT"
+"ZIK"
+"JUJOJ" [用言]
+"KANTI KIJE" [用言]
+"LINEDELU"
+"KECTENEBEL"
+"POMEC"
+"BAPALA"

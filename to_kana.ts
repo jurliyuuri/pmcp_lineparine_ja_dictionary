@@ -81,6 +81,8 @@ const words: string[] = [
   ...pmcp_2023_4_5_words
 ];
 
+console.log(JSON.stringify(words));
+
 const kana_words = words.flatMap(form => {
   const normalized_entry = form.replace(/\./g, " ").replace(/[-*]/g, "").toLowerCase().replace(/^e /, "")
   if (normalized_entry === "textel" || normalized_entry === "jujojit") { return []; }
