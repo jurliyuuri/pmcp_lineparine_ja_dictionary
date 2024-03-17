@@ -1,4 +1,4 @@
-import { compare_kana_string } from "./compare_kana_string.ts"
+import { compare_kana_string } from "./compare_kana_string.ts";
 
 const test_cases = [
   ["ail", "アイㇽ"],
@@ -47,11 +47,11 @@ test_cases.forEach(([pmcp, kana]) => {
   console.assert(to_kana(pmcp) === kana, to_kana(pmcp), kana)
 });
 
-import { dict } from './pmcf_dict.ts';
+import { dict } from '../2_cleansed_assets/pmcf_dict.ts';
 
-import pmcf_2023_11 from "./pmcf_2023_11.json" with { type: "json" };
+import pmcf_2023_11 from "../2_cleansed_assets/pmcf_2023_11.json" with { type: "json" };
 
-import pmcp_2023_4_5_words from "./pmcp_2023_4_5_words.json" with { type: "json" };
+import pmcp_2023_4_5_words from "../2_cleansed_assets/pmcp_2023_4_5_words.json" with { type: "json" };
 
 const words: string[] = [
   /* pmcf_dict 由来のもの */

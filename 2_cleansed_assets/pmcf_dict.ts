@@ -1,4 +1,4 @@
-import { Word } from "./type.ts";
+import { Word } from "./__OTM_TYPE.ts";
 
 type Dict = {
   words: Word[],
