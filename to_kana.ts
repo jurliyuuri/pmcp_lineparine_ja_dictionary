@@ -1,3 +1,5 @@
+import { compare_kana_string } from "./compare_kana_string.ts"
+
 const test_cases = [
   ["ail", "アイㇽ"],
   ["belpic", "ベㇽピㇲ"],
@@ -41,29 +43,6 @@ function to_kana(str: string): string {
   return ans;
 }
 
-function compare_kana(s1: string, s2: string): 0 | 1 | -1 {
-  const replacer = (s: string) => s
-    .replace(/'ァ'/g, 'ア')
-    .replace(/'ィ'/g, 'イ')
-    .replace(/'ゥ'/g, 'ウ')
-    .replace(/'ェ'/g, 'エ')
-    .replace(/'ォ'/g, 'オ')
-    .replace(/'ャ'/g, 'ヤ')
-    .replace(/'ュ'/g, 'ユ')
-    .replace(/'ョ'/g, 'ヨ')
-    .replace(/'ㇳ'/g, 'ト')
-    .replace(/'ㇰ'/g, 'ク')
-    .replace(/'ㇽ'/g, 'ル')
-    .replace(/'ㇲ'/g, 'ス')
-    .replace(/'ㇷ゚'/g, 'プ')
-    ;
-
-  const t1 = replacer(s1);
-  const t2 = replacer(s2);
-
-  return t1 < t2 ? -1 : t1 === t2 ? 0 : 1;
-}
-
 test_cases.forEach(([pmcp, kana]) => {
   console.assert(to_kana(pmcp) === kana, to_kana(pmcp), kana)
 });
@@ -91,6 +70,6 @@ const kana_words = words.flatMap(form => {
 
 const kana_words_unique = [...new Set(kana_words)];
 
-kana_words_unique.sort(compare_kana);
+kana_words_unique.sort(compare_kana_string);
 
 console.log(JSON.stringify(kana_words_unique));
