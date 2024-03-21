@@ -511,7 +511,7 @@
 "NOCTI"
 "ANPE"
 "AMOL" [用言]
-"PEKENACIT"
+"PEKENAC" [用言]
 "MELPETAL"
 "TAXU"
 "ICCO"
