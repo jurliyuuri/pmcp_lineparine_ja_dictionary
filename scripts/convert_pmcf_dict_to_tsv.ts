@@ -55,7 +55,7 @@ const list = dict.words.map(w => {
         }
     }
 
-    return { word_form, asterisk, part_of_speech, 意味_理, 語源_理 };
+    return { word_form, asterisk, part_of_speech, 意味_理, 語源_理, linzklar_list };
 });
 
 const encoder = new TextEncoder();
@@ -65,3 +65,13 @@ const data = encoder.encode(
 );
 
 Deno.writeFileSync("pmcf_dict.tsv", data);
+
+
+const encoder2 = new TextEncoder();
+const data2 = encoder2.encode(
+    ["語", "品詞", "燐字リスト"].join("\t") + "\n" +
+    list.map(line => [line.word_form, line.part_of_speech, line.linzklar_list.join(", ")].join("\t")).join("\n")
+);
+
+Deno.writeFileSync("pmcf_dict.tsv", data);
+Deno.writeFileSync("pmcf_linzklar.tsv", data2);
